@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner-1.gif" alt="Bannère">
+    <img src="banner-2.gif" alt="Bannère">
 </p>
 
 <h2 align="center"> :fog: About Konrad : </h2>
